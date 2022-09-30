@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P57S212022</string>
+    <string name="TituloP1">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="descripcionImagen">Descripcion de la Imagen</string>
+    <string name="TituloPrincipal">Menu de opciones</string>
+    <string name="copyright">Copyright \u00a9 2022, Joaquin Perez Practica 5</string>
+</resources>
